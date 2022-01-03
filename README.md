@@ -7,10 +7,7 @@ It uses the the [Humla](https://gitlab.com/quite/humla) protocol implementation
 
 QtuneGX should run on Android 4.0 (IceCreamSandwich, API 14) and later.
 
-QtuneGX is available [on F-Droid](https://f-droid.org/packages/se.lublin.mumla/).
-
-There is a small [landing page](https://mumla-app.gitlab.io/), that also has
-information about [Beta releases](https://mumla-app.gitlab.io/beta/).
+QtuneGX is available as part of Qtune collaboration Suite
 
 ## Translations
 
