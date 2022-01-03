@@ -56,7 +56,7 @@
     <string name="chatNotificationsSum">Mostrar notificaciones cuando un usuario escriba en el chat</string>
     <string name="defaultUsername">Nombre de usuario predeterminado</string>
     <string name="defaultUsernameSum">El nombre de usuario predeterminado que se usará al conectar a los servidores.</string>
-    <string name="defaultUsernameDefault">QtuneGX_User</string>
+    <string name="defaultUsernameDefault">Mumla_User</string>
     <string name="certificateGenerate">Generar certificado</string>
     <string name="certificateGenerateSum">Genera un nuevo certificado de QtuneGX auto-firmado. Recomendado para principiantes.</string>
     <string name="pttSettings">Opciones de Presionar-para-hablar</string>

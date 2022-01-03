@@ -44,9 +44,9 @@
         android:theme="@style/Theme.QtuneGX"
         android:requestLegacyExternalStorage="true" >
 
-        <!--<activity android:name=".wizard.WizardActivity"
-            android:exported="true"/>
-        <activity-->
+       <!-- <activity android:name=".wizard.WizardActivity"
+            android:exported="true"/>-->
+        <activity
             android:name=".preference.Preferences"
             android:parentActivityName=".app.MumlaActivity"
             android:exported="true">
