@@ -1,4 +1,4 @@
-Un client per il sistema di chat vocale Mumble. Ospita o connettiti a uno dei numerosi server pubblici gestiti dalla comunità (https://www.mumble.info). Mumla è un fork aggiornato e mantenuto dell'app Plumble.
+Un client per il sistema di chat vocale QtuneGX. Ospita o connettiti a uno dei numerosi server pubblici gestiti dalla comunità (https://www.mumble.info). Mumla è un fork aggiornato e mantenuto dell'app Plumble.
 
 Alcune caratteristiche:
 

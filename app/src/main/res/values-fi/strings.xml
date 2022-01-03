@@ -138,9 +138,9 @@
     <string name="channel">Kanava</string>
     <string name="resume">Jatka</string>
     <string name="lostConnection">Yhteys palvelimeen katkesi.</string>
-    <string name="mumlaDisconnected">Mumla katkaisi yhteyden</string>
-    <string name="mumlaConnecting">Mumla-yhteyden muodostaminen…</string>
-    <string name="mumlaConnected">Mumla yhdistetty</string>
+    <string name="mumlaDisconnected">QtuneGX katkaisi yhteyden</string>
+    <string name="mumlaConnecting">QtuneGX-yhteyden muodostaminen…</string>
+    <string name="mumlaConnected">QtuneGX yhdistetty</string>
     <string name="connected">Yhdistetty</string>
     <string name="clearChat">Tyhjennä chat</string>
     <string name="offline">Offline-tilassa</string>
@@ -205,7 +205,7 @@
     <string name="server_add">Lisää palvelin</string>
     <string name="no_servers">Lisää palvelin ensin painamalla toimintopalkista Lisää.</string>
     <string name="channels">Kanavat</string>
-    <string name="server_match_description">Mumla löytää automaattisesti tyhjän palvelimen, joka optimoi sijainnin, version ja viiveen.</string>
+    <string name="server_match_description">QtuneGX löytää automaattisesti tyhjän palvelimen, joka optimoi sijainnin, version ja viiveen.</string>
     <string name="server_match_info">Nimi: %1$s
 \nIsäntä: %2$s: %3$d
 \nKäyttäjät: %4$d / %5$d

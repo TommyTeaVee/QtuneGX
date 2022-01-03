@@ -17,17 +17,17 @@
 
 buildscript {
     repositories {
-        jcenter()
+        mavenCentral()
         google()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.5.3'
+        classpath 'com.android.tools.build:gradle:7.0.3'
     }
 }
 apply plugin: 'com.android.application'
 
 repositories {
-    jcenter()
+    mavenCentral()
     google()
 }
 
@@ -53,21 +53,20 @@ allprojects {
 }
 
 android {
-    compileSdkVersion 29
-    buildToolsVersion '29.0.3'
+    compileSdkVersion 31
 
     defaultConfig {
-        minSdkVersion 14
+        minSdkVersion 18
         // TODO bumping to 30 will break writing to external storage, see
         // requestLegacyExternalStorage in app/src/main/AndroidManifest.xml
-        targetSdkVersion 29
+        targetSdkVersion 31
         multiDexEnabled true
 
-        applicationId "se.lublin.mumla"
+        applicationId "com.mxt.qtunegx"
         versionCode 92
         versionName gitDescribe()
 
-        setProperty("archivesBaseName", "mumla")
+        setProperty("archivesBaseName", "QtuneGX")
         buildConfigField "long", "TIMESTAMP", System.currentTimeMillis() + "L"
 
         testInstrumentationRunner "android.test.InstrumentationTestRunner"
@@ -77,15 +76,15 @@ android {
     productFlavors {
         official {
             dimension "release"
-            applicationId "se.lublin.mumla"
+            applicationId "com.mxt.qtunegx"
         }
         donation {
             dimension "release"
-            applicationId "se.lublin.mumla.donation"
+            applicationId "com.mxt.qtunegx"
         }
         beta {
             dimension "release"
-            applicationId "se.lublin.mumla.beta"
+            applicationId "com.mxt.qtunegx.beta"
         }
     }
 
@@ -137,10 +136,11 @@ android {
 
 dependencies {
     implementation 'androidx.multidex:multidex:2.0.1'
-    implementation project(":libraries:humla")
-    implementation 'androidx.appcompat:appcompat:1.1.0'
+ implementation 'org.bouncycastle:bcpkix-jdk15on:1.70'
+    api project(":libraries:humla")
+    implementation 'androidx.appcompat:appcompat:1.4.0'
     implementation 'androidx.cardview:cardview:1.0.0'
-    implementation 'androidx.recyclerview:recyclerview:1.1.0'
-    implementation 'org.jsoup:jsoup:1.13.1'
+    implementation 'androidx.recyclerview:recyclerview:1.2.1'
+    implementation 'org.jsoup:jsoup:1.14.3'
     implementation 'info.guardianproject.netcipher:netcipher:2.1.0'
 }

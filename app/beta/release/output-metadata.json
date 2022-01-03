@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.mxt.qtunegx.beta",
+  "variantName": "betaRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 27353034,
+      "versionName": "3.5.8-22-g74c5749",
+      "outputFile": "QtuneGX-beta-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

@@ -81,9 +81,9 @@
     <string name="offline">Non in Linea</string>
     <string name="clearChat">Pulisci Chat</string>
     <string name="connected">Connesso</string>
-    <string name="mumlaConnected">Mumla connesso</string>
-    <string name="mumlaConnecting">Mumla in connessione…</string>
-    <string name="mumlaDisconnected">Mumla disconnesso </string>
+    <string name="mumlaConnected">QtuneGX connesso</string>
+    <string name="mumlaConnecting">QtuneGX in connessione…</string>
+    <string name="mumlaDisconnected">QtuneGX disconnesso </string>
     <string name="lostConnection">Connessione al server persa.</string>
     <string name="resume">Riprendi</string>
     <string name="channel">Canale</string>
@@ -110,7 +110,7 @@
     <string name="userControl">Controllo Utente</string>
     <string name="coming_soon">Questa funzione arriverà presto.</string>
     <string name="hint_reason">Motivo</string>
-    <string name="hint_server_add">Benvenuto su Mumla</string>
+    <string name="hint_server_add">Benvenuto su QtuneGX</string>
     <string name="action_settings">Impostazioni</string>
     <string name="reconnect">Riconnetti</string>
     <string name="confirm">Conferma</string>
@@ -119,7 +119,7 @@
     <string name="position">Posizione</string>
     <string name="channel_edit">Modifica Canale</string>
     <string name="channel_add">Aggiungi Canale</string>
-    <string name="first_run_generate_certificate_title">Benvenuto in Mumla.</string>
+    <string name="first_run_generate_certificate_title">Benvenuto in QtuneGX.</string>
     <string name="generate">Genera</string>
     <string name="invalid_password">Password errata.</string>
     <string name="send_message">Invia messaggio</string>
@@ -230,7 +230,7 @@
     <string name="retrieving">Ricezione…</string>
     <string name="status_notify_muted">Muto.</string>
     <string name="noServerInfo">Pinga per Ottenere Informazioni</string>
-    <string name="shareMessage">Unisciti a questo server Mumble tramite Mumla. %s</string>
+    <string name="shareMessage">Unisciti a questo server Mumble tramite QtuneGX. %s</string>
     <string name="server_list_title_public_internet">Pubblici</string>
     <string name="chat_notify_now_unmuted">%s non è muto.</string>
     <string name="chat_notify_now_muted">%s è muto.</string>
@@ -257,7 +257,7 @@
     <string name="ptt">Premi per Parlare</string>
     <string name="server_label">Etichetta</string>
     <string name="no_servers">Aggiungere un server premendo «Aggiungi» dalla barra delle azioni.</string>
-    <string name="server_match_description">Mumla può trovare automaticamente un server vuoto, con posizione, versione e latenza ideali.</string>
+    <string name="server_match_description">QtuneGX può trovare automaticamente un server vuoto, con posizione, versione e latenza ideali.</string>
     <string name="server_match_info">Nome: %1$s
 \nHost: %2$s:%3$d
 \nUtenti: %4$d / %5$d

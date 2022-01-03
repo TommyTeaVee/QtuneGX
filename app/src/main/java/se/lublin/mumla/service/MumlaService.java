@@ -55,7 +55,7 @@ import se.lublin.mumla.service.ipc.TalkBroadcastReceiver;
 import se.lublin.mumla.util.HtmlUtils;
 
 /**
- * An extension of the Humla service with some added Mumla-exclusive non-standard Mumble features.
+ * An extension of the Humla service with some added Mumla-exclusive non-standard QtuneGX features.
  * Created by andrew on 28/07/13.
  */
 public class MumlaService extends HumlaService implements
@@ -283,7 +283,7 @@ public class MumlaService extends HumlaService implements
 
         // Manually set theme to style overlay views
         // XML <application> theme does NOT do this!
-        setTheme(R.style.Theme_Mumla);
+        setTheme(R.style.Theme_QtuneGX);
 
         mMessageLog = new ArrayList<>();
         mMessageNotification = new MumlaMessageNotification(MumlaService.this);

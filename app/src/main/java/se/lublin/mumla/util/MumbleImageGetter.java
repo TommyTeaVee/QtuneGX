@@ -41,7 +41,7 @@ import se.lublin.mumla.Constants;
 import se.lublin.mumla.Settings;
 
 /**
- * Implementation of ImageGetter designed for Mumble MOTDs and messages.
+ * Implementation of ImageGetter designed for QtuneGX MOTDs and messages.
  * Can read base64-embedded images and references. Caches them too.
  * Created by andrew on 07/02/14.
  */

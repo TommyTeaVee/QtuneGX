@@ -4,7 +4,7 @@
     <string name="reconnect_dialog_message">Ja esteu connectat a un servidor. Connectar a aquest enlloc\?</string>
     <string name="reconnect">Reconnecta</string>
     <string name="action_settings">Configuració</string>
-    <string name="hint_server_add">Benvinguts a Mumla</string>
+    <string name="hint_server_add">Benvinguts a QtuneGX</string>
     <string name="hint_ptt">Premeu per parlar</string>
     <string name="hint_reason">Motiu</string>
     <string name="tapToReconnect">Toqueu per reconnectar</string>
@@ -30,9 +30,9 @@
     <string name="user">Usuari</string>
     <string name="channel">Canal</string>
     <string name="lostConnection">S\'ha perdut la connexió amb el servidor.</string>
-    <string name="mumlaDisconnected">Mumla desconnectat</string>
-    <string name="mumlaConnecting">Mumla connectant…</string>
-    <string name="mumlaConnected">Mumla connectat</string>
+    <string name="mumlaDisconnected">QtuneGX desconnectat</string>
+    <string name="mumlaConnecting">QtuneGX connectant…</string>
+    <string name="mumlaConnected">QtuneGX connectat</string>
     <string name="connected">Connectat</string>
     <string name="clearChat">Neteja xat</string>
     <string name="online">En línia</string>
@@ -73,7 +73,7 @@
     <string name="server_username">Nom d\'usuari</string>
     <string name="server_add">Afegir servidor</string>
     <string name="channels">Canals</string>
-    <string name="server_match_description">Mumla pot cercar automàticament un servidor buit, optimitzant ubicació, versió i latència.</string>
+    <string name="server_match_description">QtuneGX pot cercar automàticament un servidor buit, optimitzant ubicació, versió i latència.</string>
     <string name="server_match_expand_country">No s\'ha pogut trobar cap servidor òptim al vostre país. Busquem arreu del món\?</string>
     <string name="server_match_not_found">No s\'ha trobat el servidor</string>
     <string name="server_match_found">Servidor trobat</string>
@@ -175,7 +175,7 @@
     <string name="status_notify_muted">Silenciat.</string>
     <string name="status_notify_muted_and_deafened">Silenciat i ensordit.</string>
     <string name="noServerInfo">Feu ping per a recuperar informació</string>
-    <string name="shareMessage">Accediu a aquest servidor amb Mumla. %s</string>
+    <string name="shareMessage">Accediu a aquest servidor amb QtuneGX. %s</string>
     <string name="share">Compartir</string>
     <string name="ping">Ping</string>
     <string name="server_list_title_lan">LAN</string>
@@ -195,8 +195,8 @@
     <string name="certificate_not_valid">No s\'ha pogut generar el certificat %s.</string>
     <string name="generate">Generar</string>
     <string name="first_run_generate_certificate">Es recomana generar un certificat. Alguns servidors demanen un certificat.</string>
-    <string name="first_run_generate_certificate_title">Benvinguts a Mumla.</string>
-    <string name="mumble_url_parse_failed">No s\'ha pogut processar la URL de Mumble.</string>
+    <string name="first_run_generate_certificate_title">Benvinguts a QtuneGX.</string>
+    <string name="mumble_url_parse_failed">No s\'ha pogut processar la URL de QtuneGX.</string>
     <string name="tts_failed">No s\'ha pogut iniciar TTS</string>
     <string name="channel_add">Afegir canal</string>
     <string name="channel_edit">Editar canal</string>

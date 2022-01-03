@@ -120,7 +120,7 @@ public class FavouriteServerListFragment extends Fragment implements OnItemClick
     }
 
     public void shareServer(Server server) {
-        // Build Mumble server URL
+        // Build QtuneGX server URL
         String serverUrl = "mumble://" + server.getHost()
             + (server.getPort() == 0 ? "" : ":" + server.getPort()) + "/";
 

@@ -82,7 +82,7 @@
     <string name="certificate_not_valid">Nelze načíst certifikát %s.</string>
     <string name="generate">Vygenerovat</string>
     <string name="first_run_generate_certificate">Generování certifikátu se důrazně doporučuje a je nezbytné pro připojení k některým serverům.</string>
-    <string name="first_run_generate_certificate_title">Vítejte v Mumla.</string>
+    <string name="first_run_generate_certificate_title">Vítejte v QtuneGX.</string>
     <string name="mumble_url_parse_failed">Adresa URL služby Mumble není platná.</string>
     <string name="tts_failed">Nelze spustit převodník textu na řeč</string>
     <string name="channel_add">Přidat kanál</string>
@@ -98,7 +98,7 @@
     <string name="hint_switching_summary">Mezi zobrazením chatu a kanálu můžete přepínat pomocí tlačítek vlevo nahoře nebo přejetím prstem.</string>
     <string name="hint_switching">Přepínání mezi zobrazeními</string>
     <string name="hint_server_add_summary">Přidejte oblíbený server stisknutím tlačítka „Přidat“ na horním panelu.</string>
-    <string name="hint_server_add">Vítejte v Mumla</string>
+    <string name="hint_server_add">Vítejte v QtuneGX</string>
     <string name="hint_ptt_summary">Jednoduše stiskněte toto tlačítko a můžete mluvit. Dvojitým klepnutím jej přepnete.</string>
     <string name="hint_ptt">Mluvení při stisku klávesy</string>
     <string name="hint_reason">Důvod</string>
@@ -124,7 +124,7 @@
     <string name="status_notify_muted">Ztlumen.</string>
     <string name="status_notify_muted_and_deafened">Ztlumen a ohlušen.</string>
     <string name="noServerInfo">Ping pro získání informací</string>
-    <string name="shareMessage">Připojte se k tomuto Mumble serveru pomocí Mumla. %s</string>
+    <string name="shareMessage">Připojte se k tomuto Mumble serveru pomocí QtuneGX. %s</string>
     <string name="description">Popis</string>
     <string name="share">Sdílet</string>
     <string name="country">Země</string>
@@ -152,9 +152,9 @@
     <string name="channel">Kanál</string>
     <string name="resume">Pokračovat</string>
     <string name="lostConnection">Ztráta spojení se serverem.</string>
-    <string name="mumlaDisconnected">Mumla odpojen</string>
-    <string name="mumlaConnecting">Mumla se připojuje…</string>
-    <string name="mumlaConnected">Mumla připojen</string>
+    <string name="mumlaDisconnected">QtuneGX odpojen</string>
+    <string name="mumlaConnecting">QtuneGX se připojuje…</string>
+    <string name="mumlaConnected">QtuneGX připojen</string>
     <string name="connected">Připojeno</string>
     <string name="clearChat">Vyčistit chat</string>
     <string name="offline">Offline</string>
@@ -221,7 +221,7 @@
     <string name="server_add">Přidat server</string>
     <string name="no_servers">Stiskněte „Přidat“ v horním panelu pro přidání serveru.</string>
     <string name="channels">Kanály</string>
-    <string name="server_match_description">Mumla pro vás automaticky může najít prázdný server s optimální lokací, verzí a latencí.</string>
+    <string name="server_match_description">QtuneGX pro vás automaticky může najít prázdný server s optimální lokací, verzí a latencí.</string>
     <string name="server_match_info">Jméno: %1$s
 \nHost: %2$s:%3$d
 \nUživatelé: %4$d / %5$d
