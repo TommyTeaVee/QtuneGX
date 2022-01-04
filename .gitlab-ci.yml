@@ -24,7 +24,7 @@ stages:
 assembleDebug:
   stage: build
   script:
-    - pushd libraries/humla/libs/humla-spongycastle
+    - pushd libraries/humla/libs/bouncycastle-java
     - ../../gradlew jar
     - popd
     - ./gradlew assembleDebug
